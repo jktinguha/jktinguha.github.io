@@ -1,0 +1,45 @@
+.head1{
+    color: rgb(12, 2, 2);
+    background-color: rgb(18, 72, 119);
+    border: 2px solid rgb(132, 133, 194);
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+
+}
+.head2{
+    color: rgb(12, 2, 2);
+    background-color: rgb(18, 72, 119);
+    border: 2px solid rgb(132, 133, 194);
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+
+}
+.par1{
+    color: rgb(26, 8, 5);
+    font-size: 30px;
+    font-family: "Libertinus Sans", sans-serif;
+    border: 5px dashed black;
+    text-align: center;
+    
+}
+.par2{
+    color: rgb(34, 4, 4);
+    font-size: 30px;
+    font-family: "Libertinus Sans", sans-serif;
+    border: 5px dashed black;
+    text-align: center;
+    text-decoration: underline;
+}
+.par3{
+    color: rgb(23, 105, 51);
+    font-size: 30px;
+    font-family: "Libertinus Sans", sans-serif;
+    border: 5px dashed black;
+    text-align: center;
+}
+body{
+    background-image: url(images/download.png);
+    background-size: cover;
+}

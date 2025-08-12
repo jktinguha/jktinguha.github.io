@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(2, 29, 80);
+}
+.head1{
+    color: rgb(12, 2, 2);
+    text-align: right;
+    font-size: large;
+}
+.head2{
+    color: rgb(221, 12, 12);
+    text-align: center;
+    font-size: large;
+}
+.head3{
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 12, 17);
+    border: 2px solid rgb(219, 59, 10);
+    text-align: left;
+    padding: 5px;
+    margin: 10px;
+    font-size: large;
+    width: 50%;
+    height: 50%;
+}
+.head4{
+    color: rgb(14, 189, 37);
+    text-align: left;
+   font-size: large;
+}
+.head5{
+    color: rgb(172, 230, 13);
+    text-decoration: underline;
+    font-weight: bold;
+    width: 25px;
+    text-align: center;
+    font-size: large;
+}
+.par1{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par2{
+    color: rgb(236, 8, 8);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par3{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par4{
+    color: rgb(235, 75, 187);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par5{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par6{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par7{
+    color: rgb(214, 19, 19);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par8{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par9{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par10{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+}
+.par11{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+    border: 1px solid rgb(151, 51, 51);
+    background-color: black;
+}
+.par12{
+    color: rgb(243, 240, 240);
+    font-size: 12px;
+    font-family: "Libertinus Sans", sans-serif;
+    background-color: red;
+}
