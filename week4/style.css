@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.con1{
+    display: flex;
+}
+.box1{
+    background-color: rgb(252, 0, 0);
+    height: 100px;
+    width: 33.33%;
+}
+.box2{
+    background-color: rgb(255, 136, 0);
+    height: 100px;
+    width: 33.33%;
+}
+.box3{
+    background-color: rgb(255, 238, 0);
+    height: 100px;
+    width: 33.33%;
+}
+.box4{
+    background-color: rgb(38, 192, 0);
+    height: 100px;
+    width: 33.33%;
+}
+.box5{
+    background-color: rgb(39, 78, 255);
+    height: 100px;
+    width: 66.66%;
+}
+.con2{
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+.box6{
+    background-color: rgb(60, 18, 158);
+    height: 50px;
+    width: 125px;  
+}
+.box7{
+    background-color: rgb(170, 170, 170);
+    height: 50px;
+    width: 125px;
+    ;
+}
+.box8{
+    background-color: blanchedalmond;
+    height: 100px;
+    width: 250px;
+}
